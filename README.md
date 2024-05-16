@@ -28,3 +28,10 @@ $ npm install
 ```
 $ npm run dev
 ```
+
+This is a short demonstartion for this project :
+
+https://github.com/AL-Morchid-Chaymae/goto-morroco/assets/120697707/6e48a28e-76e0-4e0a-8f59-c88426b37a18
+
+
+
